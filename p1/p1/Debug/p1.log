@@ -1,0 +1,8 @@
+﻿  io.cpp
+  io.h
+  Source.cpp
+C:\beily\p1\p1\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\beily\p1\p1\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+Debug\io.obj : warning LNK4042: object specified more than once; extras ignored
+  p1.vcxproj -> C:\beily\p1\Debug\p1.exe
